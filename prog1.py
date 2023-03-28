@@ -1,1 +1,1 @@
-print("Ola pessoal")
+print("Ola")
